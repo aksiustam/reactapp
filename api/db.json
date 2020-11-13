@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Ali",
+      "salary": "3000",
+      "departmen": "Bilisim"
+    },
+    {
+      "name": "Aksi",
+      "salary": "5000",
+      "departmen": "Bilisim",
+      "id": "VTDqozC"
+    },
+    {
+      "name": "Ahmet",
+      "salary": "3000",
+      "departmen": "Bilisim",
+      "id": "0iwS-hq"
+    }
+  ]
+}
